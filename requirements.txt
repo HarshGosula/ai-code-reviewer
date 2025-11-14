@@ -1,0 +1,9 @@
+# FastAPI and Web Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# GitHub Integration
+PyGithub==2.1.1
+PyJWT==2.8.0
+cryptography==42.0.0
